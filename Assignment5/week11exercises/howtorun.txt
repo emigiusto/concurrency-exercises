@@ -1,0 +1,4 @@
+gradle -PmainClass="mobilepayment.Main" run --warning-mode none
+
+
+gradle -PmainClass="mobilepayment.Account" run --warning-mode none

@@ -1,0 +1,4 @@
+gradle -PmainClass="exercises10.TestCASLockHistogram" run
+
+
+gradle -PmainClass="exercises10.TestHistograms" run

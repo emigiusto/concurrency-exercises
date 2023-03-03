@@ -1,0 +1,85 @@
+> Task :app:compileJava
+> Task :app:processResources UP-TO-DATE
+> Task :app:classes
+
+> Task :app:run
+# OS:   Mac OS X; 12.6; aarch64
+# JVM:  Homebrew; 17.0.4.1
+# CPU:  null; 8 "cores"
+# Date: 2022-09-30T11:09:16+0200
+Mark1:
+ 0,003 s     0,1ns 
+Mark2:
+   2,3 ns
+Mark3:
+   2,2 ns
+   2,2 ns
+   2,2 ns
+   2,2 ns
+   2,2 ns
+   2,2 ns
+   2,2 ns
+   2,2 ns
+   2,2 ns
+   2,2 ns
+Mark4:
+   2,2 ns +/-  0,014
+Mark5:
+ 100,0 ns +/-    67,86          2
+  51,0 ns +/-    15,88          4
+  37,0 ns +/-    14,62          8
+  26,3 ns +/-     3,77         16
+  22,5 ns +/-     2,69         32
+  20,4 ns +/-     3,85         64
+  19,2 ns +/-     1,39        128
+  18,4 ns +/-     1,05        256
+  17,7 ns +/-     0,62        512
+  17,8 ns +/-     0,47       1024
+  17,0 ns +/-     0,68       2048
+  17,7 ns +/-     1,22       4096
+   5,0 ns +/-     1,61       8192
+   4,6 ns +/-     0,24      16384
+   4,5 ns +/-     0,07      32768
+   4,7 ns +/-     0,03      65536
+   2,8 ns +/-     1,07     131072
+   2,3 ns +/-     0,03     262144
+   2,2 ns +/-     0,02     524288
+   2,2 ns +/-     0,01    1048576
+   2,2 ns +/-     0,00    2097152
+   2,2 ns +/-     0,00    4194304
+   2,2 ns +/-     0,01    8388608
+   2,2 ns +/-     0,00   16777216
+   2,2 ns +/-     0,00   33554432
+   2,2 ns +/-     0,00   67108864
+   2,2 ns +/-     0,01  134217728
+Mark6:
+multiply                            227,1 ns     418,22          2
+multiply                             86,4 ns      21,42          4
+multiply                             81,3 ns      29,76          8
+multiply                             69,5 ns      12,09         16
+multiply                             63,2 ns       6,70         32
+multiply                             69,3 ns      14,76         64
+multiply                             62,4 ns       1,52        128
+multiply                             59,6 ns       7,77        256
+multiply                             21,3 ns       1,83        512
+multiply                             19,5 ns       0,96       1024
+multiply                             19,5 ns       1,38       2048
+multiply                             18,8 ns       0,52       4096
+multiply                              5,6 ns       2,81       8192
+multiply                              4,8 ns       0,29      16384
+multiply                              4,7 ns       0,10      32768
+multiply                              4,7 ns       0,07      65536
+multiply                              3,2 ns       1,25     131072
+multiply                              2,2 ns       0,02     262144
+multiply                              2,2 ns       0,02     524288
+multiply                              2,2 ns       0,00    1048576
+multiply                              2,2 ns       0,02    2097152
+multiply                              2,2 ns       0,01    4194304
+multiply                              2,2 ns       0,00    8388608
+multiply                              2,2 ns       0,00   16777216
+multiply                              2,2 ns       0,01   33554432
+multiply                              2,2 ns       0,01   67108864
+multiply                              2,2 ns       0,00  134217728
+
+BUILD SUCCESSFUL in 16s
+3 actionable tasks: 2 executed, 1 up-to-date

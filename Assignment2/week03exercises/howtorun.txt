@@ -1,0 +1,3 @@
+gradle -PmainClass=exercises03.BoundedBuffer run
+gradle -PmainClass=exercises03.BoundedBufferBarrier run
+gradle -PmainClass=exercises03.Person run

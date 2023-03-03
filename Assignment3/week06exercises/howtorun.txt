@@ -1,0 +1,5 @@
+gradle -PmainClass=exercise06.AccountExperiments run
+gradle -PmainClass=exercise06.ThreadsAccountExperimentsMany run
+gradle -PmainClass=exercise06.ThreadsAccountExperimentsManyTerminating run
+gradle -PmainClass=exercise06.TestCountPrimesThreads run
+gradle -PmainClass=exercise06.HistogramPrimesThreadsModified run

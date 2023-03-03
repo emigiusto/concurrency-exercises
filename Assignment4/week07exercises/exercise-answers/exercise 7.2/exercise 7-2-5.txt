@@ -1,0 +1,4 @@
+Sequential                      4180045.6 ns   65548.87         64
+IntStream                       4195535.5 ns   73405.67         64
+Parallel                        1276255.4 ns   25962.07        256
+ParallelStream                  1277027.0 ns   14579.16        256

@@ -1,0 +1,21 @@
+> Task :app:compileJava UP-TO-DATE
+> Task :app:processResources UP-TO-DATE
+> Task :app:classes UP-TO-DATE
+
+> Task :app:run
+# OS:   Mac OS X; 12.6; aarch64
+# JVM:  Homebrew; 17.0.4.1
+# CPU:  null; 8 "cores"
+# Date: 2022-09-30T13:44:56+0200
+pow                                 142,2 ns       1,71    2097152
+exp                                  75,5 ns       0,16    4194304
+log                                  64,2 ns       0,11    4194304
+sin                                   6,7 ns       0,01   67108864
+cos                                   6,7 ns       0,05   67108864
+tan                                  85,3 ns       0,29    4194304
+asin                                 41,9 ns       0,27    8388608
+acos                                 42,3 ns       1,40    8388608
+atan                                  8,2 ns       0,03   33554432
+
+BUILD SUCCESSFUL in 1m 3s
+3 actionable tasks: 1 executed, 2 up-to-date

@@ -1,0 +1,1 @@
+gradle -PmainClass="exercises09.Stopwatch" run

@@ -1,0 +1,5 @@
+gradle cleanTest test --tests testingconcurrency.ConcurrentSetBuggyTest
+gradle cleanTest test --tests testingconcurrency.ConcurrentSetLibraryTest
+gradle cleanTest test --tests testingconcurrency.ConcurrentSetSyncTest
+
+gradle -PmainClass=testingconcurrency.ConcurrentIntegerSet run

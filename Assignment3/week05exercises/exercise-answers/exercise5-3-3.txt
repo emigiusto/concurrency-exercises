@@ -1,0 +1,45 @@
+> Task :app:compileJava UP-TO-DATE
+> Task :app:processResources UP-TO-DATE
+> Task :app:classes UP-TO-DATE
+
+> Task :app:run
+# OS:   Mac OS X; 11.5.2; aarch64
+# JVM:  Homebrew; 17.0.4.1
+# CPU:  null; 8 "cores"
+# Date: 2022-10-12T22:13:04+0200
+countSequential                 2591383,1 ns   22177,10        128
+countParallelN       1          2647106,0 ns    8302,64        128
+countParallelN       2          1751179,0 ns   15734,13        256
+countParallelN       3          1454454,9 ns   54380,69        256
+countParallelN       4          1333114,1 ns   14403,91        256
+countParallelN       5          1571202,9 ns   29787,84        256
+countParallelN       6          1630971,2 ns   33495,45        256
+countParallelN       7          1673673,4 ns   37731,83        256
+countParallelN       8          1696482,3 ns   38107,39        256
+countParallelN       9          1708954,4 ns   33526,49        256
+countParallelN      10          1768369,6 ns  124336,80        256
+countParallelN      11          1732262,1 ns   29508,17        256
+countParallelN      12          1841882,9 ns  171083,87        256
+countParallelN      13          1754419,5 ns   37248,77        256
+countParallelN      14          1756974,7 ns   34648,30        256
+countParallelN      15          1751676,4 ns   31858,88        256
+countParallelN      16          1825111,5 ns  176227,56        256
+countParallelN      17          1763600,8 ns   32521,35        256
+countParallelN      18          1837727,9 ns  220786,01        256
+countParallelN      19          1739436,7 ns   44961,93        256
+countParallelN      20          1717160,1 ns   18993,14        256
+countParallelN      21          1720753,1 ns   47454,35        256
+countParallelN      22          1733717,3 ns   46220,84        256
+countParallelN      23          1786599,3 ns  131039,47        128
+countParallelN      24          1767358,1 ns   58068,73        256
+countParallelN      25          1718458,0 ns   18282,30        256
+countParallelN      26          1706738,8 ns   30733,91        256
+countParallelN      27          1713561,9 ns   85772,77        256
+countParallelN      28          1675426,5 ns   55234,62        256
+countParallelN      29          1671719,4 ns   50288,30        256
+countParallelN      30          1671834,9 ns   65871,41        256
+countParallelN      31          1647016,0 ns   60650,11        256
+countParallelN      32          1605250,6 ns   28999,22        256
+
+BUILD SUCCESSFUL in 4m 37s
+3 actionable tasks: 1 executed, 2 up-to-date

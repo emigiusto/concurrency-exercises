@@ -1,0 +1,44 @@
+> Task :app:compileJava UP-TO-DATE
+> Task :app:processResources UP-TO-DATE
+> Task :app:classes UP-TO-DATE
+
+> Task :app:run
+# OS:   Mac OS X; 11.5.2; aarch64
+# JVM:  Homebrew; 17.0.4.1
+# CPU:  null; 8 "cores"
+# Date: 2022-10-13T09:30:53+0200
+countParallelNLocal  1          6395085,3 ns   59731,81         64
+countParallelNLocal  2          3423550,9 ns   74654,04        128
+countParallelNLocal  3          2453944,1 ns   52214,77        128
+countParallelNLocal  4          2053699,0 ns   91995,82        256
+countParallelNLocal  5          2262880,2 ns   27292,68        128
+countParallelNLocal  6          2253914,7 ns   72090,37        128
+countParallelNLocal  7          2471787,4 ns   22739,59        128
+countParallelNLocal  8          2665811,4 ns  112661,52        128
+countParallelNLocal  9          2786589,5 ns  161205,66        128
+countParallelNLocal 10          2728496,5 ns   51244,89        128
+countParallelNLocal 11          2746782,7 ns   50566,75        128
+countParallelNLocal 12          2851317,8 ns  105581,94        128
+countParallelNLocal 13          2889088,6 ns  150006,20        128
+countParallelNLocal 14          2781444,3 ns  245594,44        128
+countParallelNLocal 15          2822671,7 ns  128306,39        128
+countParallelNLocal 16          2744182,5 ns   85367,52        128
+countParallelNLocal 17          2732327,4 ns   32251,23        128
+countParallelNLocal 18          2779667,8 ns   75827,59        128
+countParallelNLocal 19          2759231,6 ns   57394,24        128
+countParallelNLocal 20          2916983,7 ns  193106,32        128
+countParallelNLocal 21          2750117,4 ns   39542,04        128
+countParallelNLocal 22          2697586,1 ns   51791,51        128
+countParallelNLocal 23          2692528,6 ns   56082,55        128
+countParallelNLocal 24          2780675,4 ns   64612,40        128
+countParallelNLocal 25          2759600,8 ns   50197,94        128
+countParallelNLocal 26          2778980,1 ns   42341,42        128
+countParallelNLocal 27          2734517,2 ns   58940,08        128
+countParallelNLocal 28          2699935,8 ns   75930,34        128
+countParallelNLocal 29          2695450,5 ns   30874,07        128
+countParallelNLocal 30          2823654,7 ns  138710,82        128
+countParallelNLocal 31          3606314,1 ns  732700,22         64
+countParallelNLocal 32          2929225,8 ns  276929,51        128
+
+BUILD SUCCESSFUL in 3m 44s
+3 actionable tasks: 1 executed, 2 up-to-date
